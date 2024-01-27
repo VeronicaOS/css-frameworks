@@ -1,10 +1,10 @@
 # BookBlend (css-frameworks-ca)
 
-For this project I was tasked to create a social media application and I could choose the design and the topics. I chose an about for book lovers and named it BookBlend. This is a social media application for all the book lovers who want to share their passion and thoughts on books.
+For this project I was tasked to create a social media application and I could choose the design and the topic. I chose to create a page for book lovers and named it BookBlend. This is a social media application for all the book lovers who want to share their passion and thoughts on books.
 
 ## Description
 
-This was the first project where we were tasked to use Bootstrap and SASS. I started off with the design in Figma and then started off with the "bones" in HTML and then I added everything Bootstrap and SASS has to offer to make this site liked I imagined.
+This was the first project where we were tasked to use Bootstrap and SASS. I started off with a rough wireframe and noted down colours, then got started on the "bones" in HTML and then I added everything Bootstrap and SASS has to offer to make this site liked I imagined.
 
 ## Brief
 
@@ -21,7 +21,6 @@ You are tasked with creating 3 pages in HTML using Bootstrap and SASS. The goal 
 -   HTML
 -   Bootstrap
 -   SASS
--   Figma
 
 ## Getting Started
 
